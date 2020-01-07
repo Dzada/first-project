@@ -1,1 +1,1 @@
-This project created for my assistant user - Dzadavin.
+This project is created for my assistant user - Dzadavin.
